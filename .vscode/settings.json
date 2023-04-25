@@ -1,0 +1,7 @@
+{
+   "python.linting.pylintPath":
+    "${workspaceFolderBasename}${pathSeparator}venv${pathSeparator}bin${pathSeparator}pylint",
+   "python.defaultInterpreterPath": 
+    "${workspaceFolderBasename}${pathSeparator}${pathSeparator}venv${pathSeparator}bin${pathSeparator}python"
+
+}
