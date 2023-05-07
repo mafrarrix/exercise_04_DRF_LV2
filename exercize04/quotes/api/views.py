@@ -13,3 +13,5 @@ class QuoteListCreateAPIView(generics.ListCreateAPIView):
 class QuoteDetailAPIView(generics.RetrieveUpdateDestroyAPIView):
     queryset = quote.objects.all()
     serializer_class = QuotesSerializer
+    
+
