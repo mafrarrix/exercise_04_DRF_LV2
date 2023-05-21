@@ -1,6 +1,7 @@
 # Exercise_04_DRF_LV2
 
 Course Django REST Framework e Vue JS 
+![1200-jpg-2939061317](https://github.com/mafrarrix/exercise_04_DRF_LV2/assets/84633068/3ea0df61-784d-4646-b414-22ea7e4224e8)
 
 This repository contains a implementation of Django Rest Framework 
 in python version 3.10.6
