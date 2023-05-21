@@ -9,7 +9,7 @@ in python version 3.10.6
 
 - `exercize03/`
    `exercize03/`: Root Django folder.
-    - `jobBoardAPI/`: App Django.
+    - `quotes/`: App Django.
     - `db.sqlite3`: Binary file.
     - `manage.py`: Script file Jango.
     - `main.yml`: Main playbook that includes other playbooks.
