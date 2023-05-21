@@ -7,7 +7,7 @@ urlpatterns = [
          QuoteListCreateAPIView.as_view(),
          name="quotes-list"),
     
-     path("quotes/",
+     path("quotes/<int:pk>",
          QuoteDetailAPIView.as_view(),
          name="quotes-details"),
 ]
