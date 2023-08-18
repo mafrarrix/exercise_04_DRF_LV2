@@ -15,8 +15,8 @@
 
 ### Setup
 Crate eviroment and Install requirements 
-###### bash
-```
+###### bash shell
+```shell
 python3 -m venv nome_ambiente 
 pip install -r requirements.txt
 ```
